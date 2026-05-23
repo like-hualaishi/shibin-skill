@@ -1,5 +1,5 @@
 ---
-name: shibin-skill
+name: 石斌-skill
 description: 车轱辘响，22岁，学生，福州
 user-invocable: true
 ---
