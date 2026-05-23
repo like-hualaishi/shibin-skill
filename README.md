@@ -1,2 +1,2 @@
-# shibin-skill
-Shibin skill for Marvis AI Agent
+# shibin-skil
+马维斯做的skill
