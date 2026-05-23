@@ -1,0 +1,36 @@
+{
+  "name": "车轱辘响",
+  "slug": "shibin-skill",
+  "created_at": "2026-05-23T20:55:00+08:00",
+  "updated_at": "2026-05-23T21:00:00+08:00",
+  "version": "v2",
+  "profile": {
+    "age": "22",
+    "occupation": "学生",
+    "city": "福州",
+    "gender": "",
+    "mbti": "ISTJ",
+    "zodiac": "狮子座"
+  },
+  "tags": {
+    "personality": [
+      "ISTJ",
+      "狮子座",
+      "容易焦虑",
+      "自我怀疑",
+      "容易分心",
+      "内向",
+      "话少"
+    ],
+    "lifestyle": [
+      "学生",
+      "福州",
+      "22岁"
+    ]
+  },
+  "impression": "ISTJ 狮子座 容易焦虑 自我怀疑 容易分心",
+  "memory_sources": [
+    "基础信息录入（无微信聊天记录）"
+  ],
+  "corrections_count": 1
+}
